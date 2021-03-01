@@ -163,5 +163,5 @@
 }
 
 .hidden {
-  display: none;
+  display: flex;
 }
